@@ -1,0 +1,101 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.main
+{
+    background-color: rgb(253, 223, 228);
+    height: 70px;
+}
+.logopic
+{
+    float: left;
+}
+.mainmenu
+{
+    float: right;
+    padding-top: 30px;
+    padding-right: 15%;
+}
+.menu 
+{
+    padding-left: 90px;
+    color: black;
+    text-decoration: none;
+}
+.mainpic
+{
+    width: 100%;
+	height: 100vh;
+	background-image: url('frozen.jpg');
+	background-size: 100% 100%;
+}
+.beforefooter
+{
+    background-color: rgb(253, 223, 228);
+    height: 250px;
+}
+.text
+{
+    float: left;
+}
+.pic 
+{
+    float: right;
+    padding-top: 5px;
+    padding-right: 120px;
+}
+.newproduct
+{
+    padding-left: 40px;
+    font-size: 20px;
+    color: gray;
+    padding-top: 30px;
+}
+
+.Twist
+{
+    padding-left: 40px;
+    font-size: 20px;
+    color: blue;
+    padding-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.newproduct2
+{
+    padding-left: 40px;
+    padding-top: 4%;
+    font-size: 14px;
+    color: gray;
+}
+.footer 
+{
+    background-color: rgb(115, 192, 0);
+    height: 150px;
+}
+.fourpoints
+{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.firstpoint 
+{
+    float: left;
+    padding-left: 15%;
+}
+.secondpoint
+{
+    float: left;
+    padding-left: 15%;
+}
+.thirdpoint
+{
+    float: left;
+    padding-left: 15%;
+}
+.forthpoint
+{
+    float :left;
+    padding-left: 15%;
+}
